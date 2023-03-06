@@ -1,1 +1,1 @@
-iamges
+images
